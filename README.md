@@ -1,7 +1,27 @@
 # psx-box
 ![Alt text](  http://i.imgur.com/mkp3JJb.jpg "psx-box")
 
-       psx-box is free software licensed under GPLv2
+Progress 40 - 45% roughly
+ 
+# What's already done?
+ 
+ Memory has been implemented
+ CD-Rom has been implemented 
+ Input has been implemented
+ SPU Code has been implemented
+ CPU Decoder has been implemented
+
+
+## Work left to do
+
+CPU Dissassembler
+GPU Code
+Timing Code
+Rendering Code
+Dma Core Code
+
+
+psx-box is free software licensed under GPLv2
 
 
 
