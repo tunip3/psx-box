@@ -1,3 +1,4 @@
+#include <pch.h>
 #include "gpu_core.hpp"
 
 //New fill_gouraud function
