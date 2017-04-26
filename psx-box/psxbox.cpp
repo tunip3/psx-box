@@ -1,3 +1,4 @@
+#include <pch.h>
 #include "bus.hpp"
 #include "cdrom_core.hpp"
 #include "cpu_core.hpp"
