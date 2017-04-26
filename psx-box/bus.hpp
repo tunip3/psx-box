@@ -20,7 +20,7 @@ namespace bus {
 	void irq(int interrupt);
 
 	// Reads data from the bus
-	uint32_t read(int width, uint32_t address, uint32_t data);
+	uint32_t read(int width, uint32_t address);
 
 	// Writes data to the bus
 	void write(int width, uint32_t address, uint32_t data);
