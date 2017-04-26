@@ -1,7 +1,7 @@
 #include <pch.h>
 #include "bus.hpp"
 #include "cdrom_core.hpp"
-#include "cpu_core.hpp"
+#include "cpu.h"
 #include "gpu_core.hpp"
 #include "renderer.hpp"
 #include "timer_core.hpp"
