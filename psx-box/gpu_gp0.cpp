@@ -1,3 +1,4 @@
+#include <pch.h>
 #include <cassert>
 #include "gpu_core.hpp"
 #include "vram.hpp"
