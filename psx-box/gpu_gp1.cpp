@@ -1,4 +1,5 @@
 //Include library
+#include <pch.h>
 #include "gpu_core.hpp"
 
 //New instance of gpu::gp1 function 
