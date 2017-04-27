@@ -27,8 +27,11 @@ The User Interface
 
 If you wish to build psx-box
 
-psx-box requires SDL2 and cmake
+psx-box requires SDL2 ("I Recommend installing it via nuget in Visual Studio)
 
+Also please be aware that psxbox uses fopen which is as far as the compiler is concerned
+unsecure. Before building, You will need to go to properties --> C/C++ --> preprocessor --> Preprocessor Definitions and 
+add in _CRT_SECURE_NO_WARNINGS
 
 psx-box is free software licensed under GPLv3
 
