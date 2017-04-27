@@ -34,7 +34,7 @@ uint32_t gpu::stat() {
 
 // This function reads in data from the CPU BUS at the given address
 uint32_t gpu::bus_read(int width, uint32_t address) {
-	assert(width == bus::WORD_w);
+	assert(width == bus::bus_width_t::BUS_WIDTH_WORD);
 
 	switch (address) {
 	case 0x1f801810:
@@ -51,7 +51,7 @@ uint32_t gpu::bus_read(int width, uint32_t address) {
 
 // THis function writes data on the bus at the given address
 void gpu::bus_write(int width, uint32_t address, uint32_t data) {
-	assert(width == bus::WORD_w);
+	assert(width == bus::bus_width_t::BUS_WIDTH_WORD);
 
 	switch (address) {
 	case 0x1f801810:
@@ -110,3 +110,4 @@ void gpu::vram_transfer(uint16_t data) {
 		}
 	}
 }
+
