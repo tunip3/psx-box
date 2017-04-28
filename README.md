@@ -16,13 +16,19 @@ Progress 90 - 95% roughly
  GPU Code has been implemented
 
 
-## Work left to do
+# Work left to do
 
 The User Interface
 
 
+# Current state of the Emulator
 
-## Building psx-box
+Work on The U.I. has just begun. So far the mainpage has been finished.
+![Alt text](  https://i.imgur.com/sK2jdhb.png "psx-box")
+
+
+
+# Building psx-box
 
 
 If you wish to build psx-box
