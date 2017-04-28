@@ -24,6 +24,7 @@ The User Interface
 # Current state of the Emulator
 
 Work on The U.I. has just begun. So far the mainpage has been finished.
+
 ![Alt text](  https://i.imgur.com/sK2jdhb.png "psx-box")
 
 
