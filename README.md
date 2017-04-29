@@ -25,7 +25,7 @@ The User Interface
 
 Work on The U.I. has just begun. So far the mainpage has been finished.
 
-![Alt text](  https://i.imgur.com/sK2jdhb.png "psx-box")
+![Alt text](  http://i.imgur.com/aJpiChk.png "psx-box")
 
 
 
