@@ -31,14 +31,9 @@ Work on The U.I. has just begun. So far the mainpage is almost finished.
 
 # Building psx-box
 
+Building psx-box is pretty straightforward. Just git clone open up the .sln file
+and build. Nothing more, nothing less.
 
-If you wish to build psx-box
-
-psx-box requires SDL2 ("I Recommend installing it via nuget in Visual Studio)
-
-Also please be aware that psxbox uses fopen which is as far as the compiler is concerned
-is unsecure. Before building, You will need to go to properties --> C/C++ --> preprocessor --> Preprocessor Definitions and 
-add in _CRT_SECURE_NO_WARNINGS
 
 psx-box is free software licensed under GPLv3
 
