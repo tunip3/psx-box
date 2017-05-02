@@ -1,29 +1,19 @@
 # psx-box
 ![Alt text](  http://i.imgur.com/mkp3JJb.jpg "psx-box")
 
-Progress 90 - 95% roughly
+Progress 95 - 99.9% roughly
  
-# What's already done?
- 
- Memory has been implemented
- CD-Rom has been implemented 
- Input has been implemented
- SPU Code has been implemented
- CPU Decoder has been implemented
- Rendering code has been implemented
- Dma Core Code has been implemented
- Timing code has been implemented
- GPU Code has been implemented
 
+# What's already been done?
 
-# Work left to do
-
-The User Interface
+The user interface has been mostly finished. The core library which psx-box is based on
+has already been written. The only thing left is just implementing the core library into
+the main project possibly through p_invoke so the emulator can be called.
 
 
 # Current state of the Emulator
 
-Work on The U.I. has just begun. So far the mainpage is almost finished.
+Work on The U.I. is mostly finished. psx-box should be seeing a release soon.
 
 ![Alt text](  http://i.imgur.com/aJpiChk.png "psx-box")
 
