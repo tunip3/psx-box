@@ -9,7 +9,7 @@ Progress 95 - 99.9% roughly
 The user interface has been mostly finished. psx-box is a project that will
 incorporate mutliple emulation backends similar to how retroarch uses different
 libretro cores. Currently we need help in taking the core library of PCSX-R and
-building it into a Win32 DLL which can the be called from psx-box. Our other backend
+building it into a Win32 DLL which can then be called from psx-box. Our other backend
 PSXACT is still under active development and it may be some time before it's usable.
 
 
