@@ -14,7 +14,7 @@ can then be called from psx-box. Our other backend. PSXACT is still under active
 development and it may be some time before it's usable.
 
 
-# Current state of the Emulator
+# Current state of the Project
 
 Work on The U.I. is mostly finished. Still need to implement the backend stuff
 
