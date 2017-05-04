@@ -16,7 +16,7 @@ development and it may be some time before it's usable.
 
 # Current state of the Emulator
 
-Work on The U.I. is mostly finished. Still need to implemenet the backend stuff
+Work on The U.I. is mostly finished. Still need to implement the backend stuff
 
 ![Alt text](  http://i.imgur.com/aJpiChk.png "psx-box")
 
