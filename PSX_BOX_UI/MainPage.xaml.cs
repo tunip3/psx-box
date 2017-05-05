@@ -28,7 +28,7 @@ namespace PSX_BOX_UI
     {
 
 
-        // Use P_Invoke so PSXACT Library can be used 
+        /* Use P_Invoke so PSXACT Library can be used 
         class NativeMethods
         {
             [DllImport("psxact", EntryPoint = "init")]
@@ -37,7 +37,7 @@ namespace PSX_BOX_UI
             [DllImport("psxact", EntryPoint = "run_for_one_frame")]
             public static extern void RunForOneFrame(IntPtr handle);
         }
-
+         */
  
 
 
