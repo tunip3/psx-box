@@ -1,5 +1,5 @@
-A Special Thanks to Adam-Becker for writing PSXACT the Open Source PSX Emulator Core from our project is based on.
+Thanks to Adam Becker the developer of PSXACT who has been a great help to the project. Thanks to the developers of PCSX-Reloaded. I'd also like to thank everyone over at gbatemp.net.
 
-{The Team}
+{The Core Team}
 Developers - Wiired24,ElijahZAwesome,DavidRO99
 
