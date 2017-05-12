@@ -108,7 +108,7 @@ namespace PSX_BOX_UI
             // Uses Media element to say a special message when the about button is clicked
             MediaElement mediaElement = new MediaElement();
             var synth = new Windows.Media.SpeechSynthesis.SpeechSynthesizer();
-            Windows.Media.SpeechSynthesis.SpeechSynthesisStream stream = await synth.SynthesizeTextToStreamAsync("pee s ex box is a playstation one emulator developed specifically for the xbox one platform. It was the result of a co lab rotive effort between various members of the online community");
+            Windows.Media.SpeechSynthesis.SpeechSynthesisStream stream = await synth.SynthesizeTextToStreamAsync("Pee s ex box is a project designed to bring pee s one emulation to the xbox one platform. It was the result of a co lab rotive effort between various members of the online community");
             mediaElement.SetSource(stream, stream.ContentType);
             mediaElement.Play();
         }
