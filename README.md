@@ -11,10 +11,10 @@ incorporate mutliple emulation backends similar to how retroarch uses different
 libretro cores. Currrently we are working towards implementing a number of cores
 beginning with PSXACT as our first. We have other cores or PS1 Emulators if you will
 that we would like to use as well which will be added to the project in the future.
-Our design methodology is to load the cores as a library and interact with the core
-emulation code that way. This has the benefit of better compatibility for games as
-users will be able to select from multiple backends, as well as keeping the codebase
-very small and easy to maintain.
+Our design methodology is to load the cores as a library and psx-box will interact 
+with the core emulation code that way. This has the benefit of better compatibility 
+for games as users will be able to select from multiple backends, as well as keeping
+the codebase very small and easy to maintain.
 
 
 # Current state of the Project
