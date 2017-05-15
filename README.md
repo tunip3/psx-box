@@ -21,7 +21,7 @@ the codebase very small and easy to maintain.
 
 Work on The U.I. is mostly finished. Still need to implement the backend stuff
 
-![Alt text](  http://i.imgur.com/aJpiChk.png "psx-box")
+![Alt text](  http://i.imgur.com/2ONDlMw.png "psx-box")
 
 
 
