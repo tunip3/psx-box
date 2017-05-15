@@ -30,6 +30,9 @@ namespace PSX_BOX_UI
         {
             this.InitializeComponent();
             this.Suspending += OnSuspending;
+            
+            // Setting mouse mode to "only when requested" so the navigation defaults to D-Pad/Thumbsticks
+            this.RequiresPointerMode = Windows.UI.Xaml.ApplicationRequiresPointerMode.WhenRequested;
         }
 
         /// <summary>
