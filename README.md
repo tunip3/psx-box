@@ -1,4 +1,4 @@
-![Alt text](  https://travis-ci.org/travis-ci/travis-web.svg?branch=master )
+  ![Alt text](  https://travis-ci.org/travis-ci/travis-web.svg?branch=master )
 # psx-box
 
 
